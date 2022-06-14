@@ -1,5 +1,5 @@
-ThisBuild / organization := "com.example"
-ThisBuild / scalaVersion := "3.0.0"
+ThisBuild / organization := "net.mem-memov"
+ThisBuild / scalaVersion := "3.1.2"
 
 lazy val root = (project in file(".")).settings(
   name := "hexagon",
