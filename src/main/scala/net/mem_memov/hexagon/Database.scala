@@ -6,7 +6,7 @@ class Database:
 
   def create(): Entry = ???
 
-  def has: Boolean = ???
+  def has(source: Entry): Boolean = ???
 
   def readSources(target: Entry): List[Entry] = ???
 
