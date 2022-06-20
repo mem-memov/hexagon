@@ -1,4 +1,4 @@
-package net.mem_memov
+package net.mem_memov.hexagon
 
 class PositiveDirection(
   private val targetNode: TargetNode,
